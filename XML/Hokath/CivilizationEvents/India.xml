@@ -128,8 +128,9 @@
 			<NeverCapture>true</NeverCapture>
 			<MinAreaSize>-1</MinAreaSize>
 			<ReligiousPressureModifier>25</ReligiousPressureModifier>
-			<BlockGPDestructionSpies>1</BlockGPDestructionSpies>
-			<BlockUDestructionSpies>1</BlockUDestructionSpies>
+			<!-- These features has been removed after Spy overhaul and I don't know what's the replacement for it-->
+			<!--<BlockGPDestructionSpies>1</BlockGPDestructionSpies>
+			<BlockUDestructionSpies>1</BlockUDestructionSpies>-->
 			<ConversionModifier>-10</ConversionModifier>
 			<IconAtlas>EXPANSION2_BUILDING_ATLAS</IconAtlas>
 			<PortraitIndex>0</PortraitIndex>
