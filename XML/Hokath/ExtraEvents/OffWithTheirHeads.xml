@@ -123,7 +123,7 @@
 	</Buildings>
 	<Building_GrowthExtraYield>
 		<Row>
-			<BuildingType>BUIDLING_HEADS_RELIGION_DUMMY</BuildingType>
+			<BuildingType>BUILDING_HEADS_RELIGION_DUMMY</BuildingType>
 			<YieldType>YIELD_FAITH</YieldType>
 			<Yield>50</Yield>
 		</Row>
