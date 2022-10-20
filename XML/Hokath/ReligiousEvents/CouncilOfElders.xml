@@ -182,13 +182,14 @@
 			<NukeImmune>true</NukeImmune>
 		</Row>
 	</Buildings>
-	<Building_ScienceFromYield>
+	<Building_YieldFromYieldPercent>
 		<Row>
 			<BuildingType>BUILDING_COUNCIL_OF_ELDERS_DUMMY_3</BuildingType>
-			<YieldType>YIELD_FOOD</YieldType>
+			<YieldOut>YIELD_FOOD</YieldOut>
+			<YieldIn>YIELD_SCIENCE</YieldIn>
 			<Yield>10</Yield>
 		</Row>
-	</Building_ScienceFromYield>
+	</Building_YieldFromYieldPercent>
 	<Building_YieldFromBirth>
 		<Row>
 			<BuildingType>BUILDING_COUNCIL_OF_ELDERS_DUMMY</BuildingType>
