@@ -187,7 +187,7 @@
 			<BuildingType>BUILDING_COUNCIL_OF_ELDERS_DUMMY_3</BuildingType>
 			<YieldOut>YIELD_FOOD</YieldOut>
 			<YieldIn>YIELD_SCIENCE</YieldIn>
-			<Yield>10</Yield>
+			<Value>10</Value>
 		</Row>
 	</Building_YieldFromYieldPercent>
 	<Building_YieldFromBirth>
