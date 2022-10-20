@@ -251,7 +251,7 @@
 			<YieldType>YIELD_FOOD</YieldType>
 			<YieldChange>1</YieldChange>
 		</Row>
-		<Row>
+		<!--<Row>
 			<EventChoiceType>EVENT_PORTUGAL_UE_CHOICE_5</EventChoiceType>
 			<ImprovementType>IMPROVEMENT_CUSTOMS_HOUSE_VENICE</ImprovementType>
 			<YieldType>YIELD_GOLD</YieldType>
@@ -262,7 +262,7 @@
 			<ImprovementType>IMPROVEMENT_CUSTOMS_HOUSE_VENICE</ImprovementType>
 			<YieldType>YIELD_FOOD</YieldType>
 			<YieldChange>1</YieldChange>
-		</Row>
+		</Row>-->
 	</EventChoice_ImprovementYieldChange>
 	<EventChoice_InstantYield>
 		<Row>

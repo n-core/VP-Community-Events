@@ -245,12 +245,12 @@
 			<YieldType>YIELD_GOLD</YieldType>
 			<YieldChange>1</YieldChange>
 		</Row>
-		<Row>
+		<!--<Row>
 			<EventChoiceType>EVENT_AMERICA_UE_CHOICE_5</EventChoiceType>
 			<ImprovementType>IMPROVEMENT_CUSTOMS_HOUSE_VENICE</ImprovementType>
 			<YieldType>YIELD_GOLD</YieldType>
 			<YieldChange>1</YieldChange>
-		</Row>
+		</Row>-->
 		<Row>
 			<EventChoiceType>EVENT_AMERICA_UE_CHOICE_5</EventChoiceType>
 			<ImprovementType>IMPROVEMENT_CUSTOMS_HOUSE</ImprovementType>

@@ -190,12 +190,12 @@
 			<YieldType>YIELD_GOLD</YieldType>
 			<YieldChange>-3</YieldChange>
 		</Row>
-		<Row>
+		<!--<Row>
 			<EventChoiceType>EVENT_SWEDEN_UE_CHOICE_6</EventChoiceType>
 			<ImprovementType>IMPROVEMENT_CUSTOMS_HOUSE_VENICE</ImprovementType>
 			<YieldType>YIELD_GOLD</YieldType>
 			<YieldChange>-3</YieldChange>
-		</Row>
+		</Row>-->
 		<Row>
 			<EventChoiceType>EVENT_SWEDEN_UE_CHOICE_5</EventChoiceType>
 			<ImprovementType>IMPROVEMENT_LUMBERMILL</ImprovementType>
