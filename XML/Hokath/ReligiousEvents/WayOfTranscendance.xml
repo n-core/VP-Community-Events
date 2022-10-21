@@ -396,40 +396,40 @@
 	</EventChoice_Notification>
 	<Language_en_US>
 		<Row Tag="TXT_KEY_NOTIFICATION_EVENT_WAY_OF_TRANSCENCE_CHOICE_1_S">
-			<Text>{3_PlayerName} begins on the quest of the Way Of Transcendence.</Text>
+			<Text>{3_PlayerName} begins on the quest of the Way of Transcendence.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_EVENT_WAY_OF_TRANSCENCE_CHOICE_1">
-			<Text>{3_PlayerName}'s religious men and women begin scouring ancient texts for clues to the secrets of the Way Of Transcendence.</Text>
+			<Text>{3_PlayerName}'s religious men and women begin scouring ancient texts for clues to the secrets of the Way of Transcendence.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_EVENT_WAY_OF_TRANSCENCE_CHOICE_2_S">
-			<Text>{3_PlayerName} continues on the quest of the Way Of Transcendence.</Text>
+			<Text>{3_PlayerName} continues on the quest of the Way of Transcendence.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_EVENT_WAY_OF_TRANSCENCE_CHOICE_2">
 			<Text>People in {1_CivShortDescription} leave behind their materialistic lives to join the community tending the Sacred Garden.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_EVENT_WAY_OF_TRANSCENCE_CHOICE_3_S">
-			<Text>{3_PlayerName} continues on the quest of the Way Of Transcendence.</Text>
+			<Text>{3_PlayerName} continues on the quest of the Way of Transcendence.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_EVENT_WAY_OF_TRANSCENCE_CHOICE_3">
-			<Text>{3_PlayerName} further embeds the quest for the secrets of the Way Of Transcendence in the culture of their Church.</Text>
+			<Text>{3_PlayerName} further embeds the quest for the secrets of the Way of Transcendence in the culture of their Church.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_EVENT_WAY_OF_TRANSCENCE_CHOICE_4_S">
-			<Text>{3_PlayerName} continues on the quest of the Way Of Transcendence.</Text>
+			<Text>{3_PlayerName} continues on the quest of the Way of Transcendence.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_EVENT_WAY_OF_TRANSCENCE_CHOICE_4">
 			<Text>{3_PlayerName} oversees the expansion of the Sacred Garden!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_EVENT_WAY_OF_TRANSCENCE_CHOICE_5_S">
-			<Text>{3_PlayerName} continues on the quest of the Way Of Transcendence.</Text>
+			<Text>{3_PlayerName} continues on the quest of the Way of Transcendence.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_EVENT_WAY_OF_TRANSCENCE_CHOICE_5">
 			<Text>{3_PlayerName}'s agents solidify their defence against infiltrators.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_EVENT_WAY_OF_TRANSCENCE_CHOICE_6_S">
-			<Text>{3_PlayerName} completes the quest of the Way Of Transcendence!</Text>
+			<Text>{3_PlayerName} completes the quest of the Way of Transcendence!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_EVENT_WAY_OF_TRANSCENCE_CHOICE_6">
-			<Text>{3_PlayerName} has discovers the secrets of the Way Of Transcendence!</Text>
+			<Text>{3_PlayerName} has discovers the secrets of the Way of Transcendence!</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_EVENT_WAY_OF_TRANSCENCE_DESCRIPTION">

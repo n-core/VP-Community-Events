@@ -359,7 +359,7 @@
 			<Text>{1_CivShortDescription}'s Code Talkers</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_EVENT_SHOSHONE_UE_CHOICE_5">
-			<Text>{3_PlayerName} creates a nigh-uncrackable code for military use!</Text>
+			<Text>{3_PlayerName} creates a nigh uncrackable code for military use!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_EVENT_SHOSHONE_UE_CHOICE_6_S">
 			<Text>{1_CivShortDescription}'s Solar Advancement</Text>
@@ -389,7 +389,7 @@
 			<Text>Spend {1_YieldCost} to create an extremely resilient code that grants the Sentry Promotion to all eligible Units.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EVENT_SHOSHONE_UE_HELP_CHOICE_6">
-			<Text>Utilise {1_YieldCost} to develop ultra-low cost solar panels, receiving a Solar Plant in all Cities.</Text>
+			<Text>Utilise {1_YieldCost} to develop ultra-low cost solar panels, receiving a Solar Farm in all Cities.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EVENT_SHOSHONE_UE_DESCRIPTION_CHOICE_1">
 			<Text>*A figure is seen standing in the smoke, reaching out toward you*[NEWLINE]The life of a Great Man is in danger! Prepare the horses, we go to find them, immediately.</Text>
@@ -404,7 +404,7 @@
 			<Text>*The figure of a crying woman is observed by a host of floating spectres*[NEWLINE]The spirits are restless; our offerings are not reaching them. We must reaffirm the holiness of our burial grounds.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EVENT_SHOSHONE_UE_DESCRIPTION_CHOICE_5">
-			<Text>*Two smokey figures converse while a third shadow can be seen trying to listen in*[NEWLINE]In our time of need, we are guided by our ancestors! What we have never realized is a strength has the power to defeat our enemies!</Text>
+			<Text>*Two smokey figures converse while a third shadow can be seen trying to listen in*[NEWLINE]In our time of need, we are guided by our ancestors! What we have never realized is that even the language they gave us has the power to defeat our enemies!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EVENT_SHOSHONE_UE_DESCRIPTION_CHOICE_6">
 			<Text>*A dusky river evaporates into a barren field, then the burst of the fire leaves you blind for a few moments*[NEWLINE]The spirits cry out. This world is dying. We must act if we are to secure the future for our children.</Text>

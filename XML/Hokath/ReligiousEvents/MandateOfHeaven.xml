@@ -474,7 +474,7 @@
 			<Text>{3_PlayerName} begins on the quest of the Mandate of Heaven.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_EVENT_MANDATE_OF_HEAVEN_CHOICE_1">
-			<Text>{3_PlayerName}'s begins a campaign of propaganda against his ancient enemy, in the struggle for the Mandate of Heaven.</Text>
+			<Text>{3_PlayerName}'s begins a campaign of propaganda against their ancient enemy, in the struggle for the Mandate of Heaven.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_EVENT_MANDATE_OF_HEAVEN_CHOICE_2_S">
 			<Text>{3_PlayerName} continues on the quest of the Mandate of Heaven.</Text>

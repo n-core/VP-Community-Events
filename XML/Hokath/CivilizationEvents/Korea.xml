@@ -417,7 +417,7 @@
 	</EventChoice_Notification>
 	<Language_en_US>
 		<Row Tag="TXT_KEY_NOTIFICATION_EVENT_KOREA_UE_CHOICE_1_S">
-			<Text>{1_CivShortDescription}'s A New State</Text>
+			<Text>{1_CivShortDescription}'s New State</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_EVENT_KOREA_UE_CHOICE_1">
 			<Text>{3_PlayerName} places an unknown in the role of State Councillor!</Text>
@@ -438,7 +438,7 @@
 			<Text>{1_CivShortDescription}'s Societal Appeasement</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_EVENT_KOREA_UE_CHOICE_4">
-			<Text>{3_PlayerName} give rises to social mobility!</Text>
+			<Text>{3_PlayerName} gives rise to social mobility!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_EVENT_KOREA_UE_CHOICE_5_S">
 			<Text>{1_CivShortDescription}'s Assassination</Text>

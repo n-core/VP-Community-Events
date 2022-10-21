@@ -377,7 +377,7 @@
 			<Text>{1_CivShortDescription}'s Innovative Invention</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_EVENT_AMERICA_UE_CHOICE_1">
-			<Text>{3_PlayerName} invests in a incredible invention!</Text>
+			<Text>{3_PlayerName} invests in an incredible invention!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_EVENT_AMERICA_UE_CHOICE_2_S">
 			<Text>{1_CivShortDescription}'s Sustainable Horses</Text>
@@ -395,7 +395,7 @@
 			<Text>{1_CivShortDescription}'s Veteran Pensions</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_EVENT_AMERICA_UE_CHOICE_4">
-			<Text>{3_PlayerName} subsidizes ranches across the Empire.</Text>
+			<Text>{3_PlayerName} spurs ranches across the States.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_EVENT_AMERICA_UE_CHOICE_5_S">
 			<Text>{1_CivShortDescription}'s Prohibition</Text>
@@ -407,7 +407,7 @@
 			<Text>{1_CivShortDescription}'s Music Fairs</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_EVENT_AMERICA_UE_CHOICE_6">
-			<Text>{3_PlayerName} has experienced a popular musical awakening.</Text>
+			<Text>{3_PlayerName} has inspired a popular musical awakening.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EVENT_AMERICA_UE_DESCRIPTION">
 			<Text>Out of Many, One</Text>
@@ -443,13 +443,13 @@
 			<Text>*Population density is identified as highly irregular. Encouraging new settlement in the frontier could increase our prosperity tenfold!*[NEWLINE]You are right! With so much land, we must encourage our people to expand beyond our horizons of the cities!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EVENT_AMERICA_UE_DESCRIPTION_CHOICE_4">
-			<Text>*The scheme seeks to utilize our veterans, whose many practical skills are going to waste in the cities, to stimulate the agricultural sector*[NEWLINE]This plan is both elegant and timely. Integrating these men into urban society would be a nightmare.</Text>
+			<Text>*The plan seeks to better compensate our veterans, and perhaps even stimulate the agricultural sector*[NEWLINE]This idea is both just and needed.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EVENT_AMERICA_UE_DESCRIPTION_CHOICE_5">
 			<Text>*The benefits of a dry state have been made clear*[NEWLINE]We must prevent temptation from corrupting good Americans. If there's a small bit of bootlegging as a result, well... business is business.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EVENT_AMERICA_UE_DESCRIPTION_CHOICE_6">
-			<Text>*This entrepreneur believes the music industry could become unthinkably profitable, and requests legal assistance to aid his vision*[NEWLINE]I don't see why the emergency law against public gatherings can't be relaxed for this remote 'music fair'. If all the hippies are sitting in some field, they can't be protesting the war!</Text>
+			<Text>*This entrepreneur believes the music industry could become unthinkably profitable, and requests legal assistance to aid his vision*[NEWLINE]I don't see why we can't grant a permit for this remote 'music fair'. If all the hippies are sitting in some field, they can't be engaging in subversion.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_AMERICA_UE_DUMMY">

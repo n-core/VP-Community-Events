@@ -203,7 +203,7 @@
 			<Text>The local Hotel yields +10 [ICON_GOLD] Gold and +10 [ICON_TOURISM] Tourism. However, the Natural Wonder loses up to -10 [ICON_PRODUCTION] Production.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_EVENT_NW_MESA_DESCRIPTION_CHOICE_1">
-			<Text>*The company wants a pay rise, as expected.*[NEWLINE]Thankfully these muppets don't understand inflation: we're not actually paying them anything extra in real terms.</Text>
+			<Text>*The company wants a pay raise, as expected.*[NEWLINE]Thankfully these muppets don't understand inflation: we're not actually paying them anything extra in real terms.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_EVENT_NW_MESA_DESCRIPTION_CHOICE_2">
 			<Text>*The miners are complaining about the damp conditions, which persist in spite of all efforts to rectify them.*[NEWLINE]I think they may have actually stumbled upon something really important here: the rocks that make up the Mesa are extremely good at draining water... perhaps we ought to try farming the surrounding area.</Text>

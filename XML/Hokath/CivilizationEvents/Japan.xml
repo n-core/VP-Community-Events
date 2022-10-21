@@ -421,7 +421,7 @@
 			<Text>{1_CivShortDescription}'s Tahoto</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_EVENT_JAPAN_UE_CHOICE_2">
-			<Text>{3_PlayerName} erects many great Pagoda for the use of religious sects.</Text>
+			<Text>{3_PlayerName} erects many great Pagodas for the use of religious sects.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_EVENT_JAPAN_UE_CHOICE_3_S">
 			<Text>{1_CivShortDescription}'s Court Musicians</Text>
