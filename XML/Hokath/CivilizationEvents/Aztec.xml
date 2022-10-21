@@ -531,5 +531,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_UE_RURALES_HELP">
 			<Text>Kills reward Golden Age Points and double movement on Hills. Granted only via Aztec's Events.</Text>
+		</Row>
 	</Language_en_US>
 </GameData>

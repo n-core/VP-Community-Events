@@ -454,7 +454,7 @@
 			<Text>{3_PlayerName} continues on the quest of Hero Worship.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_EVENT_HERO_WORSHIP_CHOICE_2">
-			<Text>{3_PlayerName} authorize the death penalty for all criminals in an attempt to reach his quota of sacrifices.</Text>
+			<Text>{3_PlayerName} authorizes the death penalty for all criminals in an attempt to reach his quota of sacrifices.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_EVENT_HERO_WORSHIP_CHOICE_3_S">
 			<Text>{3_PlayerName} continues on the quest of Hero Worship.</Text>

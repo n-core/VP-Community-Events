@@ -366,7 +366,7 @@
 	</EventChoice_Notification>
 	<Language_en_US>
 		<Row Tag="TXT_KEY_NOTIFICATION_EVENT_GREECE_UE_CHOICE_1_S">
-			<Text>{1_CivShortDescription}'s Of Prophecy</Text>
+			<Text>{1_CivShortDescription}'s Child of Prophecy</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_EVENT_GREECE_UE_CHOICE_1">
 			<Text>{3_PlayerName} hears of the birth of a child of prophecy!</Text>

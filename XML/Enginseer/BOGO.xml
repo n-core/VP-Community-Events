@@ -208,7 +208,7 @@
 			<Text>A long heroic Golden Age numbering {4_Turns} begins for our Empire.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EVENT_CIV_UE_DESCRIPTION_CHOICE_1">
-			<Text>Through our vision brought unique perspectives to the world to unlock the secrets of the universe.</Text>
+			<Text>Through our vision, unique perspectives enter the world and unlock the secrets of the universe.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EVENT_CIV_UE_DESCRIPTION_CHOICE_2">
 			<Text>Advancement in military theory brought devastation to the world like none have ever seen.</Text>
@@ -227,4 +227,3 @@
 		</Row>
 	</Language_en_US>
 </GameData>
-

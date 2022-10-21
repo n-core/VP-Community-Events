@@ -9,8 +9,9 @@
     <Stability>Stable</Stability>
     <Teaser>Creates more events for Vox Populi.</Teaser>
     <Description>Creates more events for Vox Populi.</Description>
-    <Authors>The Community: Enginseer, Hokath</Authors>
-    <SpecialThanks>Revamped by N.Core</SpecialThanks>
+    <Authors>The Community: Enginseer, Hokath, Xony, Anatase</Authors>
+    <SpecialThanks>
+    </SpecialThanks>
     <AffectsSavedGames>true</AffectsSavedGames>
     <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
     <SupportsSinglePlayer>true</SupportsSinglePlayer>

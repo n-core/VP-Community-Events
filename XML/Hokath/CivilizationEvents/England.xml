@@ -440,7 +440,7 @@
 			<Text>{3_PlayerName} knights a commoner!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_EVENT_ENGLAND_UE_CHOICE_2_S">
-			<Text>{1_CivShortDescription}'s The Grand Tourney</Text>
+			<Text>{1_CivShortDescription}'s Grand Tourney</Text>
 		</Row>
 		<Row Tag="TXT_KEY_NOTIFICATION_EVENT_ENGLAND_UE_CHOICE_2">
 			<Text>{3_PlayerName} has married her daughter to a handsome young knight!</Text>
