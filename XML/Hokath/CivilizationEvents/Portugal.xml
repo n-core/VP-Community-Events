@@ -83,6 +83,8 @@
 			<RequiredAnywhereBuildingClass>BUILDINGCLASS_COURTHOUSE</RequiredAnywhereBuildingClass>
 			<EventBuildingClassGlobal>BUILDINGCLASS_PORTUGAL_UE_DUMMY</EventBuildingClassGlobal>
 			<EventDuration>-1</EventDuration>
+			<GoldMedianModifierGlobal>5</GoldMedianModifierGlobal>
+			<ScienceMedianModifierGlobal>5</ScienceMedianModifierGlobal>
 		</Row>
 	</EventChoices>
 	<Event_ParentEvents>
@@ -195,18 +197,6 @@
 			<Quantity>1</Quantity>
 		</Row>
 	</EventChoice_FreeUnits>
-	<EventChoice_CityUnhappinessNeedMod>
-		<Row>
-			<EventChoiceType>EVENT_PORTUGAL_UE_CHOICE_6</EventChoiceType>
-			<YieldType>YIELD_SCIENCE</YieldType>
-			<Yield>5</Yield>
-		</Row>
-		<Row>
-			<EventChoiceType>EVENT_PORTUGAL_UE_CHOICE_6</EventChoiceType>
-			<YieldType>YIELD_GOLD</YieldType>
-			<Yield>5</Yield>
-		</Row>
-	</EventChoice_CityUnhappinessNeedMod>
 	<EventChoice_ResourceQuantity>
 		<Row>
 			<EventChoiceType>EVENT_PORTUGAL_UE_CHOICE_5</EventChoiceType>

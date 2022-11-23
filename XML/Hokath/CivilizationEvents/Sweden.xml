@@ -73,6 +73,7 @@
 			<RequiredEra>ERA_POSTMODERN</RequiredEra>
 			<MinimumNationalPopulation>200</MinimumNationalPopulation>
 			<EventDuration>-1</EventDuration>
+			<GoldMedianModifierGlobal>-30</GoldMedianModifierGlobal>
 		</Row>
 	</EventChoices>
 	<Event_ParentEvents>
@@ -170,13 +171,6 @@
 			<YieldChange>3</YieldChange>
 		</Row>
 	</EventChoice_BuildingClassYieldChange>
-	<EventChoice_CityUnhappinessNeedMod>
-		<Row>
-			<EventChoiceType>EVENT_SWEDEN_UE_CHOICE_6</EventChoiceType>
-			<YieldType>YIELD_GOLD</YieldType>
-			<Yield>-30</Yield>
-		</Row>
-	</EventChoice_CityUnhappinessNeedMod>
 	<EventChoice_ImprovementYieldChange>
 		<Row>
 			<EventChoiceType>EVENT_SWEDEN_UE_CHOICE_6</EventChoiceType>

@@ -64,6 +64,8 @@
 			<RequiresHolyCity>true</RequiresHolyCity>
 			<EraScaling>true</EraScaling>
 			<EventDuration>-1</EventDuration>
+			<ReligiousUnrestModifierGlobal>25</ReligiousUnrestModifierGlobal>
+			<BasicNeedsMedianModifierGlobal>-5</BasicNeedsMedianModifierGlobal>
 		</Row>
 		<Row>
 			<Type>EVENT_ARABIA_UE_CHOICE_6</Type>
@@ -228,18 +230,6 @@
 			<YieldChange>-2</YieldChange>
 		</Row>
 	</EventChoice_ImprovementYieldChange>
-	<EventChoice_CityUnhappinessNeedMod>
-		<Row>
-			<EventChoiceType>EVENT_ARABIA_UE_CHOICE_5</EventChoiceType>
-			<YieldType>YIELD_FAITH</YieldType>
-			<Yield>25</Yield>
-		</Row>
-		<Row>
-			<EventChoiceType>EVENT_ARABIA_UE_CHOICE_5</EventChoiceType>
-			<YieldType>YIELD_PRODUCTION</YieldType>
-			<Yield>-5</Yield>
-		</Row>
-	</EventChoice_CityUnhappinessNeedMod>
 	<EventChoice_ResourceQuantity>
 		<Row>
 			<EventChoiceType>EVENT_ARABIA_UE_CHOICE_6</EventChoiceType>

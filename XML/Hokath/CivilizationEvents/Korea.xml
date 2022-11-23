@@ -76,6 +76,7 @@
 			<Expires>false</Expires>
 			<GoldenAgeTurns>15</GoldenAgeTurns>
 			<LosingMoney>true</LosingMoney>
+			<CultureMedianModifierGlobal>-10</CultureMedianModifierGlobal>
 		</Row>
 	</EventChoices>
 	<UnitPromotions>
@@ -181,13 +182,6 @@
 			<YieldChange>1</YieldChange>
 		</Row>
 	</EventChoice_ImprovementYieldChange>
-	<EventChoice_CityUnhappinessNeedMod>
-		<Row>
-			<EventChoiceType>EVENT_KOREA_UE_CHOICE_6</EventChoiceType>
-			<YieldType>YIELD_CULTURE</YieldType>
-			<Yield>-10</Yield>
-		</Row>
-	</EventChoice_CityUnhappinessNeedMod>
 	<EventChoice_InstantYield>
 		<Row>
 			<EventChoiceType>EVENT_KOREA_UE_CHOICE_2</EventChoiceType>

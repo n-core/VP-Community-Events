@@ -36,6 +36,7 @@
 			<IsOneShot>true</IsOneShot>
 			<ImprovementRequired>IMPROVEMENT_PLANTATION</ImprovementRequired>
 			<EventDuration>100</EventDuration>
+			<ScienceMedianModifier>10</ScienceMedianModifier>
 		</Row>
 		<Row>
 			<Type>CITY_EVENT_AES_FOREIGN_CITY_TRADE_CHOICE_2</Type>
@@ -111,13 +112,6 @@
 			<YieldChange>1</YieldChange>
 		</Row>
 	</CityEventChoice_ImprovementYieldChange>
-	<CityEventChoice_CityUnhappinessNeedMod>
-		<Row>
-			<CityEventChoiceType>CITY_EVENT_AES_FOREIGN_CITY_TRADE_CHOICE_1</CityEventChoiceType>
-			<YieldType>YIELD_SCIENCE</YieldType>
-			<Yield>10</Yield>
-		</Row>
-	</CityEventChoice_CityUnhappinessNeedMod>
 
 	<!-- TEXT  -->
 	<Language_en_US>

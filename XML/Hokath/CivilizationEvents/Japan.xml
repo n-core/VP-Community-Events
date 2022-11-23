@@ -53,6 +53,7 @@
 			<WLTKDTurns>10</WLTKDTurns>
 			<RequiredAnywhereBuildingClass>BUILDINGCLASS_OPERA_HOUSE</RequiredAnywhereBuildingClass>
 			<EventDuration>-1</EventDuration>
+			<CultureMedianModifierGlobal>10</CultureMedianModifierGlobal>
 		</Row>
 		<Row>
 			<Type>EVENT_JAPAN_UE_CHOICE_5</Type>
@@ -162,8 +163,8 @@
 			<NeverCapture>true</NeverCapture>
 			<EventChoiceRequiredActive>EVENT_JAPAN_UE_CHOICE_2</EventChoiceRequiredActive>
 			<MutuallyExclusiveGroup>368</MutuallyExclusiveGroup>
-			<MinorityHappinessChange>-10</MinorityHappinessChange>
-			<UnculturedHappinessChange>-10</UnculturedHappinessChange>
+			<ReligiousUnrestModifier>-10</ReligiousUnrestModifier>
+			<CultureMedianModifier>-10</CultureMedianModifier>
 		</Row>
 	</Buildings>
 	<Building_Flavors>
@@ -236,13 +237,6 @@
 		</Row>
 	</Building_SpecificGreatPersonRateModifier>
 
-	<EventChoice_CityUnhappinessNeedMod>
-		<Row>
-			<EventChoiceType>EVENT_JAPAN_UE_CHOICE_4</EventChoiceType>
-			<YieldType>YIELD_CULTURE</YieldType>
-			<Yield>10</Yield>
-		</Row>
-	</EventChoice_CityUnhappinessNeedMod>
 	<EventChoice_BuildingClassYieldChange>
 		<Row>
 			<EventChoiceType>EVENT_JAPAN_UE_CHOICE_2</EventChoiceType>

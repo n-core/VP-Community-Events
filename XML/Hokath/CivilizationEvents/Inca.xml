@@ -63,6 +63,8 @@
 			<EventDuration>-1</EventDuration>
 			<Expires>false</Expires>
 			<EventFreePolicies>1</EventFreePolicies>
+			<GoldMedianModifierGlobal>5</GoldMedianModifierGlobal>
+			<BasicNeedsMedianModifierGlobal>5</BasicNeedsMedianModifierGlobal>
 		</Row>
 		<Row>
 			<Type>EVENT_INCA_UE_CHOICE_6</Type>
@@ -209,18 +211,6 @@
 			<YieldChange>2</YieldChange>
 		</Row>
 	</EventChoice_TerrainYieldChange>
-	<EventChoice_CityUnhappinessNeedMod>
-		<Row>
-			<EventChoiceType>EVENT_INCA_UE_CHOICE_5</EventChoiceType>
-			<YieldType>YIELD_GOLD</YieldType>
-			<Yield>5</Yield>
-		</Row>
-		<Row>
-			<EventChoiceType>EVENT_INCA_UE_CHOICE_5</EventChoiceType>
-			<YieldType>YIELD_PRODUCTION</YieldType>
-			<Yield>5</Yield>
-		</Row>
-	</EventChoice_CityUnhappinessNeedMod>
 
 
 <!--<EventChoiceFlavors>

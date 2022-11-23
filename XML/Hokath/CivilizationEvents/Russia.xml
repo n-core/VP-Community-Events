@@ -43,6 +43,7 @@
 			<IsOneShot>true</IsOneShot>
 			<PrereqTech>TECH_CHIVALRY</PrereqTech>
 			<EventDuration>-1</EventDuration>
+			<GoldMedianModifierGlobal>5</GoldMedianModifierGlobal>
 		</Row>
 		<Row>
 			<Type>EVENT_RUSSIA_UE_CHOICE_4</Type>
@@ -186,13 +187,6 @@
 			<Modifier>5</Modifier>
 		</Row>
 	</EventChoice_BuildingClassYieldModifier>
-	<EventChoice_CityUnhappinessNeedMod>
-		<Row>
-			<EventChoiceType>EVENT_RUSSIA_UE_CHOICE_3</EventChoiceType>
-			<YieldType>YIELD_GOLD</YieldType>
-			<Yield>5</Yield>
-		</Row>
-	</EventChoice_CityUnhappinessNeedMod>
 	<EventChoice_ImprovementYieldChange>
 		<Row>
 			<EventChoiceType>EVENT_RUSSIA_UE_CHOICE_3</EventChoiceType>

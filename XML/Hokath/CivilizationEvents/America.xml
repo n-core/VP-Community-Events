@@ -51,6 +51,7 @@
 			<IsOneShot>true</IsOneShot>
 			<RequiredAnywhereBuildingClass>BUILDINGCLASS_STOCKYARD</RequiredAnywhereBuildingClass>
 			<EventDuration>-1</EventDuration>
+			<ScienceMedianModifierGlobal>5</ScienceMedianModifierGlobal>
 		</Row>
 		<Row>
 			<Type>EVENT_AMERICA_UE_CHOICE_5</Type>
@@ -59,6 +60,7 @@
 			<IsOneShot>true</IsOneShot>
 			<RequiredAnywhereBuildingClass>BUILDINGCLASS_POLICE_STATION</RequiredAnywhereBuildingClass>
 			<EventDuration>-1</EventDuration>
+			<BasicNeedsMedianModifierGlobal>5</BasicNeedsMedianModifierGlobal>
 		</Row>
 		<Row>
 			<Type>EVENT_AMERICA_UE_CHOICE_6</Type>
@@ -154,18 +156,6 @@
 			<YieldChange>2</YieldChange>
 		</Row>
 	</EventChoice_BuildingClassYieldChange>
-	<EventChoice_CityUnhappinessNeedMod>
-		<Row>
-			<EventChoiceType>EVENT_AMERICA_UE_CHOICE_4</EventChoiceType>
-			<YieldType>YIELD_SCIENCE</YieldType>
-			<Yield>5</Yield>
-		</Row>
-		<Row>
-			<EventChoiceType>EVENT_AMERICA_UE_CHOICE_5</EventChoiceType>
-			<YieldType>YIELD_PRODUCTION</YieldType>
-			<Yield>5</Yield>
-		</Row>
-	</EventChoice_CityUnhappinessNeedMod>
 	<EventChoice_ResourceQuantity>
 		<Row>
 			<EventChoiceType>EVENT_AMERICA_UE_CHOICE_2</EventChoiceType>

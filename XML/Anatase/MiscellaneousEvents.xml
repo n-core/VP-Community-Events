@@ -470,6 +470,7 @@
 			<Description>TXT_KEY_CITY_EVENT_AA_FARMBONES_DESCRIPTION_CHOICE_5</Description>
 			<EventDuration>20</EventDuration>
 			<Expires>true</Expires>
+			<BasicNeedsMedianModifier>25</BasicNeedsMedianModifier>
 		</Row>
 	</CityEventChoices>
 	<CityEvent_ParentEvents>
@@ -495,13 +496,6 @@
 		</Row>
 	</CityEvent_ParentEvents>
 
-	<CityEventChoice_CityUnhappinessNeedMod>
-		<Row>
-			<CityEventChoiceType>CITY_EVENT_AA_FARMBONES_CHOICE_5</CityEventChoiceType>
-			<YieldType>YIELD_PRODUCTION</YieldType>
-			<Yield>25</Yield>
-		</Row>
-	</CityEventChoice_CityUnhappinessNeedMod>
 	<CityEventChoice_InstantYield>
 		<Row>
 			<CityEventChoiceType>CITY_EVENT_AA_FARMBONES_CHOICE_3</CityEventChoiceType>

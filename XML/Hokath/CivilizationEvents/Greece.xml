@@ -66,6 +66,7 @@
 			<RequiresIdeology>true</RequiresIdeology>
 			<IsUnhappy>true</IsUnhappy>
 			<EventDuration>-1</EventDuration>
+			<ScienceMedianModifierGlobal>-5</ScienceMedianModifierGlobal>
 		</Row>
 		<Row>
 			<Type>EVENT_GREECE_UE_CHOICE_6</Type>
@@ -155,13 +156,6 @@
 			<YieldChange>2</YieldChange>
 		</Row>
 	</EventChoice_SpecialistYieldChange>
-	<EventChoice_CityUnhappinessNeedMod>
-		<Row>
-			<EventChoiceType>EVENT_GREECE_UE_CHOICE_5</EventChoiceType>
-			<YieldType>YIELD_SCIENCE</YieldType>
-			<Yield>-5</Yield>
-		</Row>
-	</EventChoice_CityUnhappinessNeedMod>
 	<EventChoice_InstantYield>
 		<Row>
 			<EventChoiceType>EVENT_GREECE_UE_CHOICE_6</EventChoiceType>

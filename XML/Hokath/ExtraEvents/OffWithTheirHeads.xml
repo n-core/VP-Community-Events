@@ -21,6 +21,7 @@
 			<Help>TXT_KEY_EVENT_HEADS_HELP_CHOICE_1</Help>
 			<RequiresHolyCity>true</RequiresHolyCity>
 			<EventBuildingClassGlobal>BUILDINGCLASS_HEADS_RELIGION_DUMMY</EventBuildingClassGlobal>
+			<ReligiousUnrestModifierGlobal>-35</ReligiousUnrestModifierGlobal>
 		</Row>
 		<Row>
 			<Type>EVENT_HEADS_CHOICE_2</Type>
@@ -28,6 +29,7 @@
 			<Description>TXT_KEY_EVENT_HEADS_DESCRIPTION_CHOICE_2</Description>
 			<PrereqTech>TECH_METALLURGY</PrereqTech>
 			<EventBuildingClassGlobal>BUILDINGCLASS_HEADS_CULTURE_DUMMY</EventBuildingClassGlobal>
+			<CultureMedianModifierGlobal>-20</CultureMedianModifierGlobal>
 		</Row>
 		<Row>
 			<Type>EVENT_HEADS_CHOICE_3</Type>
@@ -35,6 +37,7 @@
 			<Description>TXT_KEY_EVENT_HEADS_DESCRIPTION_CHOICE_3</Description>
 			<PrereqTech>TECH_RIFLING</PrereqTech>
 			<RequiredAnywhereBuildingClass>BUILDINGCLASS_ARSENAL</RequiredAnywhereBuildingClass>
+			<BasicNeedsMedianModifierGlobal>-20</BasicNeedsMedianModifierGlobal>
 		</Row>
 		<Row>
 			<Type>EVENT_HEADS_CHOICE_4</Type>
@@ -42,6 +45,7 @@
 			<Description>TXT_KEY_EVENT_HEADS_DESCRIPTION_CHOICE_4</Description>
 			<PrereqTech>TECH_ELECTRONICS</PrereqTech>
 			<RequiredAnywhereBuildingClass>BUILDINGCLASS_POLICE_STATION</RequiredAnywhereBuildingClass>
+			<GoldMedianModifierGlobal>-20</GoldMedianModifierGlobal>
 		</Row>
 		<Row>
 			<Type>EVENT_HEADS_CHOICE_5</Type>
@@ -49,11 +53,16 @@
 			<Description>TXT_KEY_EVENT_HEADS_DESCRIPTION_CHOICE_5</Description>
 			<PrereqTech>TECH_PENICILIN</PrereqTech>
 			<RequiredAnywhereBuildingClass>BUILDINGCLASS_MEDICAL_LAB</RequiredAnywhereBuildingClass>
+			<ScienceMedianModifierGlobal>-20</ScienceMedianModifierGlobal>
 		</Row>
 		<Row>
 			<Type>EVENT_HEADS_CHOICE_6</Type>
 			<Help>TXT_KEY_EVENT_HEADS_HELP_CHOICE_6</Help>
 			<Description>TXT_KEY_EVENT_HEADS_DESCRIPTION_CHOICE_6</Description>
+			<BasicNeedsMedianModifierGlobal>-5</BasicNeedsMedianModifierGlobal>
+			<GoldMedianModifierGlobal>-5</GoldMedianModifierGlobal>
+			<ScienceMedianModifierGlobal>-5</ScienceMedianModifierGlobal>
+			<CultureMedianModifierGlobal>-5</CultureMedianModifierGlobal>
 		</Row>
 	</EventChoices>
 	<Event_ParentEvents>
@@ -136,54 +145,6 @@
 			<Yield>15</Yield>
 		</Row>
 	</Building_WLTKDYieldMod>
-
-	<EventChoice_CityUnhappinessNeedMod>
-		<Row>
-			<EventChoiceType>EVENT_HEADS_CHOICE_1</EventChoiceType>
-			<YieldType>YIELD_FAITH</YieldType>
-			<Yield>-35</Yield>
-		</Row>
-		<Row>
-			<EventChoiceType>EVENT_HEADS_CHOICE_2</EventChoiceType>
-			<YieldType>YIELD_CULTURE</YieldType>
-			<Yield>-20</Yield>
-		</Row>
-		<Row>
-			<EventChoiceType>EVENT_HEADS_CHOICE_3</EventChoiceType>
-			<YieldType>YIELD_PRODUCTION</YieldType>
-			<Yield>-20</Yield>
-		</Row>
-		<Row>
-			<EventChoiceType>EVENT_HEADS_CHOICE_4</EventChoiceType>
-			<YieldType>YIELD_GOLD</YieldType>
-			<Yield>-20</Yield>
-		</Row>
-		<Row>
-			<EventChoiceType>EVENT_HEADS_CHOICE_5</EventChoiceType>
-			<YieldType>YIELD_SCIENCE</YieldType>
-			<Yield>-20</Yield>
-		</Row>
-		<Row>
-			<EventChoiceType>EVENT_HEADS_CHOICE_6</EventChoiceType>
-			<YieldType>YIELD_CULTURE</YieldType>
-			<Yield>-5</Yield>
-		</Row>
-		<Row>
-			<EventChoiceType>EVENT_HEADS_CHOICE_6</EventChoiceType>
-			<YieldType>YIELD_PRODUCTION</YieldType>
-			<Yield>-5</Yield>
-		</Row>
-		<Row>
-			<EventChoiceType>EVENT_HEADS_CHOICE_6</EventChoiceType>
-			<YieldType>YIELD_SCIENCE</YieldType>
-			<Yield>-5</Yield>
-		</Row>
-		<Row>
-			<EventChoiceType>EVENT_HEADS_CHOICE_6</EventChoiceType>
-			<YieldType>YIELD_GOLD</YieldType>
-			<Yield>-5</Yield>
-		</Row>
-	</EventChoice_CityUnhappinessNeedMod>
 
 	<EventChoice_BuildingClassYieldModifier>
 		<Row>

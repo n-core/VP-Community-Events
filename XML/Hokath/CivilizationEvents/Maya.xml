@@ -63,6 +63,8 @@
 			<Expires>false</Expires>
 			<WLTKDTurns>12</WLTKDTurns>
 			<ResistanceTurns>2</ResistanceTurns>
+			<GoldMedianModifierGlobal>-5</GoldMedianModifierGlobal>
+			<ScienceMedianModifierGlobal>-5</ScienceMedianModifierGlobal>
 		</Row>
 		<Row>
 			<Type>EVENT_MAYA_UE_CHOICE_6</Type>
@@ -71,6 +73,7 @@
 			<IsOneShot>true</IsOneShot>
 			<RequiredEra>ERA_POSTMODERN</RequiredEra>
 			<EventDuration>-1</EventDuration>
+			<ReligiousUnrestModifierGlobal>-50</ReligiousUnrestModifierGlobal>
 		</Row>
 	</EventChoices>
 	<Event_ParentEvents>
@@ -146,23 +149,6 @@
 			<Quantity>2</Quantity>
 		</Row>
 	</EventChoice_ResourceQuantity>
-	<EventChoice_CityUnhappinessNeedMod>
-		<Row>
-			<EventChoiceType>EVENT_MAYA_UE_CHOICE_6</EventChoiceType>
-			<YieldType>YIELD_FAITH</YieldType>
-			<Yield>-50</Yield>
-		</Row>
-		<Row>
-			<EventChoiceType>EVENT_MAYA_UE_CHOICE_5</EventChoiceType>
-			<YieldType>YIELD_GOLD</YieldType>
-			<Yield>-5</Yield>
-		</Row>
-		<Row>
-			<EventChoiceType>EVENT_MAYA_UE_CHOICE_5</EventChoiceType>
-			<YieldType>YIELD_SCIENCE</YieldType>
-			<Yield>-5</Yield>
-		</Row>
-	</EventChoice_CityUnhappinessNeedMod>
 	<EventChoice_BuildingClassYieldChange>
 		<Row>
 			<EventChoiceType>EVENT_MAYA_UE_CHOICE_3</EventChoiceType>
@@ -413,4 +399,3 @@
 		</Row>
 	</Language_en_US>
 </GameData>
-

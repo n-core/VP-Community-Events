@@ -129,7 +129,7 @@
 			<NeverCapture>true</NeverCapture>
 			<EventChoiceRequiredActive>EVENT_ASSYRIA_UE_CHOICE_4</EventChoiceRequiredActive>
 			<MutuallyExclusiveGroup>366</MutuallyExclusiveGroup>
-			<DefenseHappinessChange>-10</DefenseHappinessChange>
+			<BasicNeedsMedianModifier>-10</BasicNeedsMedianModifier>
 			<IsDummy>true</IsDummy>
 		</Row>
 	</Buildings>

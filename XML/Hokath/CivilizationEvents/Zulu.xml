@@ -65,6 +65,7 @@
 			<PrereqTech>TECH_STEAM_POWER</PrereqTech>
 			<RequiresWarMinor>true</RequiresWarMinor>
 			<EventDuration>-1</EventDuration>
+			<BasicNeedsMedianModifierGlobal>5</BasicNeedsMedianModifierGlobal>
 		</Row>
 		<Row>
 			<Type>EVENT_ZULU_UE_CHOICE_6</Type>
@@ -75,6 +76,7 @@
 			<EventBuildingClassGlobal>BUILDINGCLASS_CHURCH</EventBuildingClassGlobal>
 			<RequiredAnywhereBuildingClass>BUILDINGCLASS_STADIUM</RequiredAnywhereBuildingClass>
 			<EventDuration>-1</EventDuration>
+			<CultureMedianModifierGlobal>-10</CultureMedianModifierGlobal>
 		</Row>
 	</EventChoices>
 	<Event_ParentEvents>
@@ -149,19 +151,7 @@
 			<Quantity>1</Quantity>
 		</Row>
 	</EventChoice_FreeUnitClasses>
-	
-	<EventChoice_CityUnhappinessNeedMod>
-		<Row>
-			<EventChoiceType>EVENT_ZULU_UE_CHOICE_6</EventChoiceType>
-			<YieldType>YIELD_CULTURE</YieldType>
-			<Yield>-10</Yield>
-		</Row>
-		<Row>
-			<EventChoiceType>EVENT_ZULU_UE_CHOICE_5</EventChoiceType>
-			<YieldType>YIELD_PRODUCTION</YieldType>
-			<Yield>5</Yield>
-		</Row>
-	</EventChoice_CityUnhappinessNeedMod>
+
 	<EventChoice_ImprovementYieldChange>
 		<Row>
 			<EventChoiceType>EVENT_ZULU_UE_CHOICE_4</EventChoiceType>

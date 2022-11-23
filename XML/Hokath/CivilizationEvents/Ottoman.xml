@@ -82,6 +82,8 @@
 			<GoldenAgeTurns>20</GoldenAgeTurns>
 			<EventDuration>-1</EventDuration>
 			<Expires>false</Expires>
+			<ScienceMedianModifierGlobal>-5</ScienceMedianModifierGlobal>
+			<ReligiousUnrestModifierGlobal>-50</ReligiousUnrestModifierGlobal>
 		</Row>
 	</EventChoices>
 	<Event_ParentEvents>
@@ -190,19 +192,6 @@
 		</Row>
 	</Building_BuildingClassYieldChanges>
 
-
-	<EventChoice_CityUnhappinessNeedMod>
-		<Row>
-			<EventChoiceType>EVENT_OTTOMAN_UE_CHOICE_6</EventChoiceType>
-			<YieldType>YIELD_FAITH</YieldType>
-			<Yield>-50</Yield>
-		</Row>
-		<Row>
-			<EventChoiceType>EVENT_OTTOMAN_UE_CHOICE_6</EventChoiceType>
-			<YieldType>YIELD_SCIENCE</YieldType>
-			<Yield>-5</Yield>
-		</Row>
-	</EventChoice_CityUnhappinessNeedMod>
 	<EventChoice_BuildingClassYieldChange>
 		<Row>
 			<EventChoiceType>EVENT_OTTOMAN_UE_CHOICE_2</EventChoiceType>

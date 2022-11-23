@@ -126,7 +126,7 @@
 			<NeverCapture>true</NeverCapture>
 			<EventChoiceRequiredActive>EVENT_SONGHAI_UE_CHOICE_3</EventChoiceRequiredActive>
 			<MutuallyExclusiveGroup>364</MutuallyExclusiveGroup>
-			<IlliteracyHappinessChange>-10</IlliteracyHappinessChange>
+			<ScienceMedianModifier>-10</ScienceMedianModifier>
 			<IsDummy>true</IsDummy>
 		</Row>
 	</Buildings>

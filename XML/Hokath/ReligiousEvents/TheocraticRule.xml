@@ -532,7 +532,7 @@
 			<Text>*Devotion to you has led to the annual celebrations of your life lavish and splendid*[NEWLINE]You see! They love me. They really love me!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EVENT_THEOCRATIC_RULE_DESCRIPTION_CHOICE_3">
-			<Text>All who live under {2_CivDescription} rule are pledged to travel with me through the next world. But what about all those who lived in ages gone by? We must exhume every grave we have record of! Set the priests to it!</Text>
+			<Text>All who live under {3_PlayerName}'s rule are pledged to travel with me through the next world. But what about all those who lived in ages gone by? We must exhume every grave we have record of! Set the priests to it!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EVENT_THEOCRATIC_RULE_DESCRIPTION_CHOICE_4">
 			<Text>We must dig deeper tunnels and grander chambers if all the children of the faith are to be interred together! Bring me all the able men you can find to work on the excavation. If they die in the process... well, at least we won't have to move them far.</Text>

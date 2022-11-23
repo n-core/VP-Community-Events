@@ -76,6 +76,11 @@
 			<ResistanceTurns>1</ResistanceTurns>
 			<EventDuration>-1</EventDuration>
 			<Expires>false</Expires>
+			<BasicNeedsMedianModifierGlobal>-5</BasicNeedsMedianModifierGlobal>
+			<GoldMedianModifierGlobal>-5</GoldMedianModifierGlobal>
+			<ScienceMedianModifierGlobal>-5</ScienceMedianModifierGlobal>
+			<CultureMedianModifierGlobal>-5</CultureMedianModifierGlobal>
+			<ReligiousUnrestModifierGlobal>-5</ReligiousUnrestModifierGlobal>
 		</Row>
 	</EventChoices>
 	<Event_ParentEvents>
@@ -136,7 +141,7 @@
 			<PortraitIndex>0</PortraitIndex>
 			<EventChoiceRequiredActive>EVENT_INDIA_UE_CHOICE_3</EventChoiceRequiredActive>
 			<MutuallyExclusiveGroup>363</MutuallyExclusiveGroup>
-			<PovertyHappinessChange>-10</PovertyHappinessChange>
+			<GoldMedianModifier>-10</GoldMedianModifier>
 		</Row>
 	</Buildings>
 	<Building_Flavors>
@@ -234,34 +239,6 @@
 			<YieldChange>2</YieldChange>
 		</Row>
 	</EventChoice_BuildingClassYieldChange>
-
-	<EventChoice_CityUnhappinessNeedMod>
-		<Row>
-			<EventChoiceType>EVENT_INDIA_UE_CHOICE_6</EventChoiceType>
-			<YieldType>YIELD_GOLD</YieldType>
-			<Yield>-5</Yield>
-		</Row>
-		<Row>
-			<EventChoiceType>EVENT_INDIA_UE_CHOICE_6</EventChoiceType>
-			<YieldType>YIELD_SCIENCE</YieldType>
-			<Yield>-5</Yield>
-		</Row>
-		<Row>
-			<EventChoiceType>EVENT_INDIA_UE_CHOICE_6</EventChoiceType>
-			<YieldType>YIELD_FAITH</YieldType>
-			<Yield>-5</Yield>
-		</Row>
-		<Row>
-			<EventChoiceType>EVENT_INDIA_UE_CHOICE_6</EventChoiceType>
-			<YieldType>YIELD_CULTURE</YieldType>
-			<Yield>-5</Yield>
-		</Row>
-		<Row>
-			<EventChoiceType>EVENT_INDIA_UE_CHOICE_6</EventChoiceType>
-			<YieldType>YIELD_PRODUCTION</YieldType>
-			<Yield>-5</Yield>
-		</Row>
-	</EventChoice_CityUnhappinessNeedMod>
 	
 	<EventChoice_MinimumStartYield>
 		<Row>

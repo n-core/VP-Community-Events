@@ -31,6 +31,7 @@
 			<IsOneShot>true</IsOneShot>
 			<EventDuration>75</EventDuration>
 			<Expires>true</Expires>
+			<BasicNeedsMedianModifier>10</BasicNeedsMedianModifier>
 		</Row>
 		<Row>
 			<Type>CITY_EVENT_NW_BARRINGER_CRATER_CHOICE_3</Type>
@@ -93,13 +94,6 @@
 			<Yield>-150</Yield>
 		</Row>
 	</CityEventChoice_InstantYield>
-	<CityEventChoice_CityUnhappinessNeedMod>
-		<Row>
-			<CityEventChoiceType>CITY_EVENT_NW_BARRINGER_CRATER_CHOICE_2</CityEventChoiceType>
-			<YieldType>YIELD_PRODUCTION</YieldType>
-			<Yield>10</Yield>
-		</Row>
-	</CityEventChoice_CityUnhappinessNeedMod>
 	<CityEventChoice_ImprovementYieldChange>
 		<Row>
 			<CityEventChoiceType>CITY_EVENT_NW_BARRINGER_CRATER_CHOICE_2</CityEventChoiceType>

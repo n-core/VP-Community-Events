@@ -31,6 +31,8 @@
 			<Help>TXT_KEY_EVENT_FREEDOM_DOCTRINE_HELP_CHOICE_3</Help>
 			<Description>TXT_KEY_EVENT_FREEDOM_DOCTRINE_DESCRIPTION_CHOICE_3</Description>
 			<RequiredAnywhereBuildingClass>BUILDINGCLASS_POLICE_STATION</RequiredAnywhereBuildingClass>
+			<GoldMedianModifierGlobal>-10</GoldMedianModifierGlobal>
+			<ScienceMedianModifierGlobal>-10</ScienceMedianModifierGlobal>
 		</Row>
 	</EventChoices>
 	<EventChoice_EventLinks>
@@ -70,18 +72,6 @@
 			<Modifier>5</Modifier>
 		</Row>
 	</EventChoice_BuildingClassYieldModifier>
-	<EventChoice_CityUnhappinessNeedMod>
-		<Row>
-			<EventChoiceType>EVENT_FREEDOM_DOCTRINE_CHOICE_3</EventChoiceType>
-			<YieldType>YIELD_GOLD</YieldType>
-			<Yield>-10</Yield>
-		</Row>
-		<Row>
-			<EventChoiceType>EVENT_FREEDOM_DOCTRINE_CHOICE_3</EventChoiceType>
-			<YieldType>YIELD_SCIENCE</YieldType>
-			<Yield>-10</Yield>
-		</Row>
-	</EventChoice_CityUnhappinessNeedMod>
 	<EventChoiceFlavors>
 		<Row>
 			<EventChoiceType>EVENT_FREEDOM_DOCTRINE_CHOICE_1</EventChoiceType>

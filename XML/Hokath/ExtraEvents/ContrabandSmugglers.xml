@@ -52,12 +52,14 @@
 			<Description>TXT_KEY_CITY_EVENT_CONTRABAND_SMUGGLERS_DESCRIPTION_CHOICE_2</Description>
 			<IsOneShot>true</IsOneShot>
 			<EventDuration>-1</EventDuration>
+			<BasicNeedsMedianModifier>-10</BasicNeedsMedianModifier>
 		</Row>
 		<Row>
 			<Type>CITY_EVENT_CONTRABAND_SMUGGLERS_CHOICE_3</Type>
 			<Help>TXT_KEY_CITY_EVENT_CONTRABAND_SMUGGLERS_HELP_CHOICE_3</Help>
 			<Description>TXT_KEY_CITY_EVENT_CONTRABAND_SMUGGLERS_DESCRIPTION_CHOICE_3</Description>
 			<IsOneShot>false</IsOneShot>
+			<BasicNeedsMedianModifier>15</BasicNeedsMedianModifier>
 		</Row>
 		<Row>
 			<Type>CITY_EVENT_CONTRABAND_SMUGGLERS_CHOICE_4</Type>
@@ -123,18 +125,6 @@
 			<YieldChange>1</YieldChange>
 		</Row>
 	</CityEventChoice_SpecialistYieldChange>
-	<CityEventChoice_CityUnhappinessNeedMod>
-		<Row>
-			<CityEventChoiceType>CITY_EVENT_CONTRABAND_SMUGGLERS_CHOICE_2</CityEventChoiceType>
-			<YieldType>YIELD_PRODUCTION</YieldType>
-			<Yield>-10</Yield>
-		</Row>
-		<Row>
-			<CityEventChoiceType>CITY_EVENT_CONTRABAND_SMUGGLERS_CHOICE_3</CityEventChoiceType>
-			<YieldType>YIELD_PRODUCTION</YieldType>
-			<Yield>15</Yield>
-		</Row>
-	</CityEventChoice_CityUnhappinessNeedMod>
 	<CityEventChoiceFlavors>
 		<Row>
 			<CityEventChoiceType>CITY_EVENT_CONTRABAND_SMUGGLERS_CHOICE_2</CityEventChoiceType>

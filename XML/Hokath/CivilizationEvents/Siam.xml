@@ -166,7 +166,7 @@
 			<EventChoiceRequiredActive>EVENT_SIAM_UE_CHOICE_4</EventChoiceRequiredActive>
 			<MutuallyExclusiveGroup>365</MutuallyExclusiveGroup>
 			<IsDummy>true</IsDummy>
-			<IlliteracyHappinessChange>-10</IlliteracyHappinessChange>
+			<ScienceMedianModifier>-10</ScienceMedianModifier>
 		</Row>
 	</Buildings>
 	<Building_YieldFromSpyAttack>
@@ -539,4 +539,3 @@
 		</Row>
 	</Language_en_US>
 </GameData>
-

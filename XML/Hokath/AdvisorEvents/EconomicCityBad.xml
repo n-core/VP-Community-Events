@@ -28,6 +28,7 @@
 			<EventDuration>30</EventDuration>
 			<RequiredBuildingClass>BUILDINGCLASS_BANK</RequiredBuildingClass>
 			<Expires>true</Expires>
+			<BasicNeedsMedianModifier>20</BasicNeedsMedianModifier>
 		</Row>
 	</CityEventChoices>
 	<CityEvent_ParentEvents>
@@ -36,14 +37,6 @@
 			<CityEventType>CITY_EVENT_AES_ECONOMIC_CITY_BAD</CityEventType>
 		</Row>
 	</CityEvent_ParentEvents>
-
-	<CityEventChoice_CityUnhappinessNeedMod>
-		<Row>
-			<CityEventChoiceType>CITY_EVENT_AES_ECONOMIC_CITY_BAD_CHOICE_1</CityEventChoiceType>
-			<YieldType>YIELD_PRODUCTION</YieldType>
-			<Yield>20</Yield>
-		</Row>
-	</CityEventChoice_CityUnhappinessNeedMod>
 
 	<Language_en_US>
 		<Row Tag="TXT_KEY_CITY_EVENT_AES_ECONOMIC_CITY_BAD_DESCRIPTION">

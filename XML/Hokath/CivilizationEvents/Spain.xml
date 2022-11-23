@@ -133,7 +133,7 @@
 			<PortraitIndex>10</PortraitIndex>
 			<EventChoiceRequiredActive>EVENT_SPAIN_UE_CHOICE_3</EventChoiceRequiredActive>
 			<MutuallyExclusiveGroup>362</MutuallyExclusiveGroup>
-			<PovertyHappinessChange>-10</PovertyHappinessChange>
+			<GoldMedianModifier>-10</GoldMedianModifier>
 			<IsDummy>true</IsDummy>
 		</Row>
 	</Buildings>
