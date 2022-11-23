@@ -36,6 +36,7 @@
 			<Description>TXT_KEY_CITY_EVENT_NW_LAKE_VICTORIA_DESCRIPTION_CHOICE_3</Description>
 			<IsOneShot>true</IsOneShot>
 			<RequiredBuildingClass>BUILDINGCLASS_UNIVERSITY</RequiredBuildingClass>
+			<GoldMedianModifier>25</GoldMedianModifier>
 		</Row>
 		<Row>
 			<Type>CITY_EVENT_NW_LAKE_VICTORIA_CHOICE_4</Type>
@@ -96,13 +97,6 @@
 			<YieldChange>5</YieldChange>
 		</Row>
 	</CityEventChoice_BuildingClassYieldChange>
-	<CityEventChoice_CityUnhappinessNeedMod>
-		<Row>
-			<CityEventChoiceType>CITY_EVENT_NW_LAKE_VICTORIA_CHOICE_3</CityEventChoiceType>
-			<YieldType>YIELD_GOLD</YieldType>
-			<Yield>10</Yield>
-		</Row>
-	</CityEventChoice_CityUnhappinessNeedMod>
 	<CityEventChoice_FeatureYieldChange>
 		<Row>
 			<CityEventChoiceType>CITY_EVENT_NW_LAKE_VICTORIA_CHOICE_1</CityEventChoiceType>

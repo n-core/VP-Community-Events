@@ -53,7 +53,8 @@
 			<RequiresWar>true</RequiresWar>
 			<RequiredEra>ERA_RENAISSANCE</RequiredEra>
 			<RequiredAnywhereBuildingClass>BUILDINGCLASS_COURTHOUSE</RequiredAnywhereBuildingClass>
-			<EventDuration>-1</EventDuration>			
+			<EventDuration>-1</EventDuration>
+			<BasicNeedsMedianModifierGlobal>-10</BasicNeedsMedianModifierGlobal>
 		</Row>
 		<Row>
 			<Type>EVENT_MOROCCO_UE_CHOICE_5</Type>
@@ -192,13 +193,6 @@
 			<YieldChange>2</YieldChange>
 		</Row>
 	</EventChoice_ImprovementYieldChange>
-	<EventChoice_CityUnhappinessNeedMod>
-		<Row>
-			<EventChoiceType>EVENT_MOROCCO_UE_CHOICE_4</EventChoiceType>
-			<YieldType>YIELD_PRODUCTION</YieldType>
-			<Yield>-10</Yield>
-		</Row>
-	</EventChoice_CityUnhappinessNeedMod>
 	
 <!--<EventChoiceFlavors>
 		<Row>

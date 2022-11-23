@@ -5,11 +5,11 @@
     <ProjectGuid>{458bdc28-816a-4a5b-af99-a13a9c903bb5}</ProjectGuid>
     <Name>(7) VP Community Events</Name>
     <Guid>ef8387f0-b053-4c84-90ce-c3c5cb21a580</Guid>
-    <ModVersion>6</ModVersion>
+    <ModVersion>7</ModVersion>
     <Stability>Stable</Stability>
     <Teaser>Creates more events for Vox Populi.</Teaser>
     <Description>Creates more events for Vox Populi.</Description>
-    <Authors>The Community: Enginseer, Hokath, Xony, Anatase</Authors>
+    <Authors>The Community: Enginseer, Hokath, Xony, Anatase, N.Core</Authors>
     <SpecialThanks>
     </SpecialThanks>
     <AffectsSavedGames>true</AffectsSavedGames>
@@ -41,14 +41,14 @@
         <Type>Mod</Type>
         <Name>Community Patch</Name>
         <Id>d1b6328c-ff44-4b0d-aad7-c657f83610cd</Id>
-        <MinVersion>110</MinVersion>
+        <MinVersion>111</MinVersion>
         <MaxVersion>999</MaxVersion>
       </Association>
       <Association xmlns="">
         <Type>Mod</Type>
         <Name>Vox Populi</Name>
         <Id>8411a7a8-dad3-4622-a18e-fcc18324c799</Id>
-        <MinVersion>15</MinVersion>
+        <MinVersion>16</MinVersion>
         <MaxVersion>999</MaxVersion>
       </Association>
     </ModDependencies>

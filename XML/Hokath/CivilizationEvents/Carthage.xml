@@ -57,6 +57,7 @@
 			<RequiresWar>true</RequiresWar>
 			<EventDuration>-1</EventDuration>
 			<CapitalEffectOnly>true</CapitalEffectOnly>
+			<ReligiousUnrestModifierGlobal>15</ReligiousUnrestModifierGlobal>
 		</Row>
 		<Row>
 			<Type>EVENT_CARTHAGE_UE_CHOICE_5</Type>
@@ -68,6 +69,7 @@
 			<EventPromotion>PROMOTION_UE_PIRATE_SLAVER</EventPromotion>
 			<RequiredEra>ERA_INDUSTRIAL</RequiredEra>
 			<EventDuration>-1</EventDuration>
+			<BasicNeedsMedianModifierGlobal>5</BasicNeedsMedianModifierGlobal>
 		</Row>
 		<Row>
 			<Type>EVENT_CARTHAGE_UE_CHOICE_6</Type>
@@ -273,18 +275,6 @@
 			<YieldChange>1</YieldChange>
 		</Row>
 	</EventChoice_ImprovementYieldChange>
-	<EventChoice_CityUnhappinessNeedMod>
-		<Row>
-			<EventChoiceType>EVENT_CARTHAGE_UE_CHOICE_4</EventChoiceType>
-			<YieldType>YIELD_FAITH</YieldType>
-			<Yield>15</Yield>
-		</Row>
-		<Row>
-			<EventChoiceType>EVENT_CARTHAGE_UE_CHOICE_5</EventChoiceType>
-			<YieldType>YIELD_PRODUCTION</YieldType>
-			<Yield>5</Yield>
-		</Row>
-	</EventChoice_CityUnhappinessNeedMod>
 	<EventChoice_EventCostYield>
 		<Row>
 			<EventChoiceType>EVENT_CARTHAGE_UE_CHOICE_2</EventChoiceType>

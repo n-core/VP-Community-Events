@@ -133,7 +133,7 @@
 			<MutuallyExclusiveGroup>361</MutuallyExclusiveGroup>
 			<IsDummy>true</IsDummy>
 			<NeverCapture>true</NeverCapture>
-			<UnculturedHappinessChange>-10</UnculturedHappinessChange>
+			<CultureMedianModifier>-10</CultureMedianModifier>
 		</Row>
 		<Row>
 			<Type>BUILDING_DENMARK_UE_DUMMY</Type>

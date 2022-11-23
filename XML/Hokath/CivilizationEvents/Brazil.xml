@@ -43,6 +43,7 @@
 			<PrereqTech>TECH_EDUCATION</PrereqTech>
 			<EventDuration>-1</EventDuration>
 			<EventBuildingClassGlobal>BUILDINGCLASS_BRAZIL_UE_DUMMY</EventBuildingClassGlobal>
+			<ScienceMedianModifierGlobal>-5</ScienceMedianModifierGlobal>
 		</Row>
 		<Row>
 			<Type>EVENT_BRAZIL_UE_CHOICE_4</Type>
@@ -52,6 +53,7 @@
 			<PrereqTech>TECH_BANKING</PrereqTech>
 			<EventDuration>-1</EventDuration>
 			<YieldBonusAllCities>true</YieldBonusAllCities>
+			<GoldMedianModifierGlobal>5</GoldMedianModifierGlobal>
 		</Row>
 		<Row>
 			<Type>EVENT_BRAZIL_UE_CHOICE_5</Type>
@@ -144,18 +146,6 @@
 			<Quantity>3</Quantity>
 		</Row>
 	</EventChoice_MinimumFeatureRequired>
-	<EventChoice_CityUnhappinessNeedMod>
-		<Row>
-			<EventChoiceType>EVENT_BRAZIL_UE_CHOICE_3</EventChoiceType>
-			<YieldType>YIELD_SCIENCE</YieldType>
-			<Yield>-5</Yield>
-		</Row>
-		<Row>
-			<EventChoiceType>EVENT_BRAZIL_UE_CHOICE_4</EventChoiceType>
-			<YieldType>YIELD_GOLD</YieldType>
-			<Yield>5</Yield>
-		</Row>
-	</EventChoice_CityUnhappinessNeedMod>
 	<EventChoice_ResourceQuantity>
 		<Row>
 			<EventChoiceType>EVENT_BRAZIL_UE_CHOICE_6</EventChoiceType>

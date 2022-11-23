@@ -139,7 +139,7 @@
 			<EventChoiceRequiredActive>EVENT_GERMANY_UE_CHOICE_3</EventChoiceRequiredActive>
 			<MutuallyExclusiveGroup>367</MutuallyExclusiveGroup>
 			<IsDummy>true</IsDummy>
-			<DefenseHappinessChange>-10</DefenseHappinessChange>
+			<BasicNeedsMedianModifier>-10</BasicNeedsMedianModifier>
 		</Row>
 	</Buildings>
 	<Building_Flavors>

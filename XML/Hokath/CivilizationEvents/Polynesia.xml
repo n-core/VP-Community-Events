@@ -43,6 +43,7 @@
 			<IsOneShot>true</IsOneShot>
 			<RequiredAnywhereBuildingClass>BUILDINGCLASS_HARBOR</RequiredAnywhereBuildingClass>
 			<EventDuration>-1</EventDuration>
+			<CultureMedianModifierGlobal>10</CultureMedianModifierGlobal>
 		</Row>
 		<Row>
 			<Type>EVENT_POLYNESIA_UE_CHOICE_4</Type>
@@ -61,6 +62,7 @@
 			<IsOneShot>true</IsOneShot>
 			<PrereqTech>TECH_INDUSTRIALIZATION</PrereqTech>
 			<EventDuration>-1</EventDuration>
+			<GoldMedianModifierGlobal>5</GoldMedianModifierGlobal>
 		</Row>
 		<Row>
 			<Type>EVENT_POLYNESIA_UE_CHOICE_6</Type>
@@ -148,18 +150,6 @@
 			<Yield>200</Yield>
 		</Row>
 	</Building_YieldPerXTerrainTimes100>
-	<EventChoice_CityUnhappinessNeedMod>
-		<Row>
-			<EventChoiceType>EVENT_POLYNESIA_UE_CHOICE_3</EventChoiceType>
-			<YieldType>YIELD_CULTURE</YieldType>
-			<Yield>10</Yield>
-		</Row>
-		<Row>
-			<EventChoiceType>EVENT_POLYNESIA_UE_CHOICE_5</EventChoiceType>
-			<YieldType>YIELD_GOLD</YieldType>
-			<Yield>5</Yield>
-		</Row>
-	</EventChoice_CityUnhappinessNeedMod>
 	<EventChoice_MinimumFeatureRequired>
 		<Row>
 			<EventChoiceType>EVENT_POLYNESIA_UE_CHOICE_3</EventChoiceType>

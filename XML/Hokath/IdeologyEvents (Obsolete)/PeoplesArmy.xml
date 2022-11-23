@@ -29,6 +29,8 @@
 			<ResistanceTurns>2</ResistanceTurns>
 			<EventDuration>2</EventDuration>
 			<Expires>false</Expires>
+			<BasicNeedsMedianModifierGlobal>-5</BasicNeedsMedianModifierGlobal>
+			<CultureMedianModifierGlobal>-5</CultureMedianModifierGlobal>
 		</Row>
 		<Row>
 			<Type>EVENT_IDEOLOGY_SOCIALIST_REALISM_CHOICE_3</Type>
@@ -87,18 +89,6 @@
 		</Row>
 	</EventChoice_InstantYield>
 
-	<EventChoice_CityUnhappinessNeedMod>
-		<Row>
-			<EventChoiceType>EVENT_IDEOLOGY_SOCIALIST_REALISM_CHOICE_2</EventChoiceType>
-			<YieldType>YIELD_CULTURE</YieldType>
-			<Yield>-5</Yield>
-		</Row>
-		<Row>
-			<EventChoiceType>EVENT_IDEOLOGY_SOCIALIST_REALISM_CHOICE_2</EventChoiceType>
-			<YieldType>YIELD_PRODUCTION</YieldType>
-			<Yield>-5</Yield>
-		</Row>
-	</EventChoice_CityUnhappinessNeedMod>
 	<EventChoice_EventCostYield>
 		<Row>
 			<EventChoiceType>EVENT_IDEOLOGY_SOCIALIST_REALISM_CHOICE_1</EventChoiceType>
@@ -160,10 +150,3 @@
 		</Row>
 	</Language_en_US>
 </GameData>
-
-
-
-
-
-
-

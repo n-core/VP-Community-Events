@@ -34,6 +34,7 @@
 			<IsOneShot>true</IsOneShot>
 			<RequiredAnywhereBuildingClass>BUILDINGCLASS_TEMPLE</RequiredAnywhereBuildingClass>
 			<EventDuration>-1</EventDuration>
+			<ScienceMedianModifierGlobal>5</ScienceMedianModifierGlobal>
 		</Row>
 		<Row>
 			<Type>EVENT_BABYLON_UE_CHOICE_3</Type>
@@ -42,6 +43,7 @@
 			<IsOneShot>true</IsOneShot>
 			<PrereqTech>TECH_MACHINERY</PrereqTech>
 			<EventDuration>-1</EventDuration>
+			<GoldMedianModifierGlobal>5</GoldMedianModifierGlobal>
 		</Row>
 		<Row>
 			<Type>EVENT_BABYLON_UE_CHOICE_4</Type>
@@ -163,18 +165,6 @@
 			<Quantity>6</Quantity>
 		</Row>
 	</EventChoice_ResourceQuantity>
-	<EventChoice_CityUnhappinessNeedMod>
-		<Row>
-			<EventChoiceType>EVENT_BABYLON_UE_CHOICE_2</EventChoiceType>
-			<YieldType>YIELD_SCIENCE</YieldType>
-			<Yield>5</Yield>
-		</Row>
-		<Row>
-			<EventChoiceType>EVENT_BABYLON_UE_CHOICE_3</EventChoiceType>
-			<YieldType>YIELD_GOLD</YieldType>
-			<Yield>5</Yield>
-		</Row>
-	</EventChoice_CityUnhappinessNeedMod>
 	<EventChoice_MinimumResourceRequired>
 		<Row>
 			<EventChoiceType>EVENT_BABYLON_UE_CHOICE_6</EventChoiceType>

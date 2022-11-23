@@ -22,7 +22,7 @@
 			<MinAreaSize>-1</MinAreaSize>
 			<IconAtlas>MALL_ATLAS</IconAtlas>
 			<PortraitIndex>0</PortraitIndex>
-			<PovertyHappinessChange>10</PovertyHappinessChange>
+			<GoldMedianModifier>10</GoldMedianModifier>
 			<TradeRouteRecipientBonus>2</TradeRouteRecipientBonus>
 			<TradeRouteTargetBonus>2</TradeRouteTargetBonus>
 		</Row>
@@ -197,6 +197,8 @@
 			<Help>TXT_KEY_EVENT_MALL_EVENT_HELP_CHOICE_4</Help>
 			<EventDuration>-1</EventDuration>
 			<RequiredIdeology>POLICY_BRANCH_FREEDOM</RequiredIdeology>
+			<BasicNeedsMedianModifierGlobal>5</BasicNeedsMedianModifierGlobal>
+			<GoldMedianModifierGlobal>5</GoldMedianModifierGlobal>
 		</Row>
 		<Row>
 			<Type>EVENT_MALL_EVENT_CHOICE_5</Type>
@@ -270,18 +272,6 @@
 			<YieldChange>-2</YieldChange>
 		</Row>
 	</EventChoice_BuildingClassYieldChange>
-	<EventChoice_CityUnhappinessNeedMod>
-		<Row>
-			<EventChoiceType>EVENT_MALL_EVENT_CHOICE_4</EventChoiceType>
-			<YieldType>YIELD_PRODUCTION</YieldType>
-			<Yield>5</Yield>
-		</Row>
-		<Row>
-			<EventChoiceType>EVENT_MALL_EVENT_CHOICE_4</EventChoiceType>
-			<YieldType>YIELD_GOLD</YieldType>
-			<Yield>5</Yield>
-		</Row>
-	</EventChoice_CityUnhappinessNeedMod>
 	<EventChoice_ImprovementYieldChange>
 		<Row>
 			<EventChoiceType>EVENT_MALL_EVENT_CHOICE_3</EventChoiceType>

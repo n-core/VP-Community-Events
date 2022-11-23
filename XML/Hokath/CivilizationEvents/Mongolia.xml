@@ -45,6 +45,8 @@
 			<RequiredAnywhereBuildingClass>BUILDINGCLASS_COURTHOUSE</RequiredAnywhereBuildingClass>
 			<PrereqTech>TECH_EDUCATION</PrereqTech>
 			<EventDuration>-1</EventDuration>
+			<GoldMedianModifierGlobal>-5</GoldMedianModifierGlobal>
+			<ReligiousUnrestModifierGlobal>-10</ReligiousUnrestModifierGlobal>
 		</Row>
 		<Row>
 			<Type>EVENT_MONGOL_UE_CHOICE_4</Type>
@@ -182,18 +184,6 @@
 			<Quantity>3</Quantity>
 		</Row>
 	</EventChoice_ResourceQuantity>
-	<EventChoice_CityUnhappinessNeedMod>
-		<Row>
-			<EventChoiceType>EVENT_MONGOL_UE_CHOICE_3</EventChoiceType>
-			<YieldType>YIELD_GOLD</YieldType>
-			<Yield>-5</Yield>
-		</Row>
-		<Row>
-			<EventChoiceType>EVENT_MONGOL_UE_CHOICE_3</EventChoiceType>
-			<YieldType>YIELD_FAITH</YieldType>
-			<Yield>-10</Yield>
-		</Row>
-	</EventChoice_CityUnhappinessNeedMod>
 	<EventChoice_BuildingClassYieldChange>
 		<Row>
 			<EventChoiceType>EVENT_MONGOL_UE_CHOICE_3</EventChoiceType>
@@ -469,4 +459,3 @@
 		</Row>
 	</Language_en_US>
 </GameData>
-

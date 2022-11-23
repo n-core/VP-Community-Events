@@ -34,6 +34,7 @@
 			<IsOneShot>true</IsOneShot>
 			<PrereqTech>TECH_CHIVALRY</PrereqTech>
 			<EventDuration>-1</EventDuration>
+			<BasicNeedsMedianModifierGlobal>5</BasicNeedsMedianModifierGlobal>
 		</Row>
 		<Row>
 			<Type>EVENT_CHINA_UE_CHOICE_3</Type>
@@ -50,6 +51,7 @@
 			<IsOneShot>true</IsOneShot>
 			<PrereqTech>TECH_ARCHAEOLOGY</PrereqTech>
 			<EventDuration>-1</EventDuration>
+			<ScienceMedianModifierGlobal>5</ScienceMedianModifierGlobal>
 		</Row>
 		<Row>
 			<Type>EVENT_CHINA_UE_CHOICE_5</Type>
@@ -148,18 +150,6 @@
 			<YieldChange>3</YieldChange>
 		</Row>
 	</EventChoice_BuildingClassYieldChange>
-	<EventChoice_CityUnhappinessNeedMod>
-		<Row>
-			<EventChoiceType>EVENT_CHINA_UE_CHOICE_4</EventChoiceType>
-			<YieldType>YIELD_SCIENCE</YieldType>
-			<Yield>5</Yield>
-		</Row>
-		<Row>
-			<EventChoiceType>EVENT_CHINA_UE_CHOICE_2</EventChoiceType>
-			<YieldType>YIELD_PRODUCTION</YieldType>
-			<Yield>5</Yield>
-		</Row>
-	</EventChoice_CityUnhappinessNeedMod>
 	<EventChoice_ImprovementYieldChange>
 		<Row>
 			<EventChoiceType>EVENT_CHINA_UE_CHOICE_2</EventChoiceType>
