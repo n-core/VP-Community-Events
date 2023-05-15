@@ -121,7 +121,6 @@
 			<GreatWorkSlotType>GREAT_WORK_SLOT_MUSIC</GreatWorkSlotType>
 			<GreatWorkCount>1</GreatWorkCount>
 			<ArtDefineTag>TEMPLE</ArtDefineTag>
-			<ConversionModifier>-10</ConversionModifier>
 			<MinAreaSize>-1</MinAreaSize>
 			<WLTKDTurns>15</WLTKDTurns>
 			<ReligiousPressureModifier>40</ReligiousPressureModifier>
@@ -189,7 +188,6 @@
 			<Yield>300</Yield>
 		</Row>
 	</Building_YieldPerXTerrainTimes100>
-	
 	<EventChoice_FreeUnits>
 		<Row>
 			<EventChoiceType>EVENT_DENMARK_UE_CHOICE_5</EventChoiceType>
@@ -294,8 +292,6 @@
 			<Yield>300</Yield>
 		</Row>
 	</EventChoice_MinimumStartYield>
-	
-	
 <!--<EventChoiceFlavors>
 		<Row>
 			<EventChoiceType>EVENT_DENMARK_UE_CHOICE_1</EventChoiceType>

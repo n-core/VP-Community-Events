@@ -145,7 +145,6 @@
 			<Cost>-1</Cost>
 			<FaithCost>250</FaithCost>
 			<ReligiousPressureModifier>25</ReligiousPressureModifier>
-			<ConversionModifier>-10</ConversionModifier>
 			<ArtDefineTag>TEMPLE</ArtDefineTag>
 			<MinAreaSize>-1</MinAreaSize>
 			<IconAtlas>BW_ATLAS_1</IconAtlas>
@@ -198,7 +197,6 @@
 			<Yield>3</Yield>
 		</Row>
 	</Building_YieldChanges>
-	
 	<EventChoice_MinimumFeatureRequired>
 		<Row>
 			<EventChoiceType>EVENT_POLAND_UE_CHOICE_2</EventChoiceType>
@@ -312,8 +310,6 @@
 			<Yield>100</Yield>
 		</Row>
 	</EventChoice_InstantYield>
-	
-	
 <!--<EventChoiceFlavors>
 		<Row>
 			<EventChoiceType>EVENT_POLAND_UE_CHOICE_1</EventChoiceType>

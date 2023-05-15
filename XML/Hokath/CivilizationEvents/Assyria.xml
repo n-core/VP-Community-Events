@@ -120,8 +120,7 @@
 			<Help>TXT_KEY_BUILDING_SYNAGOGUE_HELP</Help>
 			<Cost>-1</Cost>
 			<FaithCost>250</FaithCost>
-			<ReligiousPressureModifier>25</ReligiousPressureModifier>
-			<ConversionModifier>-10</ConversionModifier>
+			<ConversionModifier>-15</ConversionModifier>
 			<ArtDefineTag>TEMPLE</ArtDefineTag>
 			<MinAreaSize>-1</MinAreaSize>
 			<IconAtlas>BW_ATLAS_1</IconAtlas>
@@ -194,7 +193,6 @@
 			<UnitCombatType>UNITCOMBAT_RECON</UnitCombatType>
 		</Row>
 	</UnitPromotions_UnitCombats>
-	
 	<EventChoice_InstantYield>
 		<Row>
 			<EventChoiceType>EVENT_ASSYRIA_UE_CHOICE_3</EventChoiceType>
@@ -488,7 +486,7 @@
 		<Row Tag="TXT_KEY_EVENT_ASSYRIA_UE_DESCRIPTION_CHOICE_6">
 			<Text>*Technological advancement has enabled our soldiers to fall, winged, from the sky.*[NEWLINE]The arrows of Ashur bringing the vengeance of the sun... Let the call go out, now is the time to fulfill our destiny!</Text>
 		</Row>
-		
+
 		<Row Tag="TXT_KEY_PROMOTION_UE_WINGED_VALOR">
 			<Text>Wings of Valor</Text>
 		</Row>

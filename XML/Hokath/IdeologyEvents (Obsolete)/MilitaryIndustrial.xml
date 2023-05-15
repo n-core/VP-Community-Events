@@ -57,12 +57,6 @@
 			<YieldType>YIELD_PRODUCTION</YieldType>
 			<YieldChange>2</YieldChange>
 		</Row>
-		<Row>
-			<EventChoiceType>EVENT_IDEOLOGY_MILITARY_INDUSTRIAL_CHOICE_1</EventChoiceType>
-			<ImprovementType>IMPROVEMENT_LUMBERMILL_JUNGLE</ImprovementType>
-			<YieldType>YIELD_PRODUCTION</YieldType>
-			<YieldChange>2</YieldChange>
-		</Row>
 	</EventChoice_ImprovementYieldChange>
 
 	<EventChoice_MinimumFeatureRequired>
@@ -161,7 +155,7 @@
 			<Text>Our Military-Industrial Complex now has the authority it needs to grow, but it also needs resources. We only have so much to work with, what should be our priority?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EVENT_IDEOLOGY_MILITARY_INDUSTRIAL_HELP_CHOICE_1">
-			<Text>All Lumbermills (including those on Jungle) generate +2 [ICON_PRODUCTION] Production, but Forest and Jungle Tiles produce -2 [ICON_FOOD] Food.</Text>
+			<Text>All Lumber Mills generate +2 [ICON_PRODUCTION] Production, but Forest and Jungle Tiles produce -2 [ICON_FOOD] Food.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EVENT_IDEOLOGY_MILITARY_INDUSTRIAL_HELP_CHOICE_2">
 			<Text>Military Bases give -2 [ICON_RESEARCH] Science but +4 [ICON_PRODUCTION] Production.</Text>

@@ -132,11 +132,11 @@
 			<ArtDefineTag>TEMPLE</ArtDefineTag>
 			<NeverCapture>true</NeverCapture>
 			<MinAreaSize>-1</MinAreaSize>
-			<ReligiousPressureModifier>25</ReligiousPressureModifier>
+			<ReligiousPressureModifier>15</ReligiousPressureModifier>
+			<ConversionModifier>-10</ConversionModifier>
 			<!-- These features has been removed after Spy overhaul and I don't know what's the replacement for it-->
 			<!--<BlockGPDestructionSpies>1</BlockGPDestructionSpies>
 			<BlockUDestructionSpies>1</BlockUDestructionSpies>-->
-			<ConversionModifier>-10</ConversionModifier>
 			<IconAtlas>EXPANSION2_BUILDING_ATLAS</IconAtlas>
 			<PortraitIndex>0</PortraitIndex>
 			<EventChoiceRequiredActive>EVENT_INDIA_UE_CHOICE_3</EventChoiceRequiredActive>
@@ -192,7 +192,6 @@
 			<Quantity>5</Quantity>
 		</Row>
 	</EventChoice_FreeUnitClasses>
-	
 	<EventChoice_BuildingClassYieldModifier>
 		<Row>
 			<EventChoiceType>EVENT_INDIA_UE_CHOICE_2</EventChoiceType>
@@ -239,7 +238,6 @@
 			<YieldChange>2</YieldChange>
 		</Row>
 	</EventChoice_BuildingClassYieldChange>
-	
 	<EventChoice_MinimumStartYield>
 		<Row>
 			<EventChoiceType>EVENT_INDIA_UE_CHOICE_3</EventChoiceType>
