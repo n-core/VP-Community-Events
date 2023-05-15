@@ -73,7 +73,7 @@
 			<Description>TXT_KEY_EVENT_INDONESIA_UE_DESCRIPTION_CHOICE_6</Description>
 			<IsOneShot>true</IsOneShot>
 			<PrereqTech>TECH_ECOLOGY</PrereqTech>
-			<ImprovementAnywhereRequired>IMPROVEMENT_LUMBERMILL_JUNGLE</ImprovementAnywhereRequired>
+			<ImprovementAnywhereRequired>IMPROVEMENT_LUMBERMILL</ImprovementAnywhereRequired>
 			<EventDuration>-1</EventDuration>
 			<EraScaling>true</EraScaling>
 		</Row>
@@ -195,13 +195,13 @@
 	<EventChoice_ImprovementYieldChange>
 		<Row>
 			<EventChoiceType>EVENT_INDONESIA_UE_CHOICE_6</EventChoiceType>
-			<ImprovementType>IMPROVEMENT_LUMBERMILL_JUNGLE</ImprovementType>
+			<ImprovementType>IMPROVEMENT_LUMBERMILL</ImprovementType>
 			<YieldType>YIELD_FOOD</YieldType>
 			<YieldChange>-1</YieldChange>
 		</Row>
 		<Row>
 			<EventChoiceType>EVENT_INDONESIA_UE_CHOICE_6</EventChoiceType>
-			<ImprovementType>IMPROVEMENT_LUMBERMILL_JUNGLE</ImprovementType>
+			<ImprovementType>IMPROVEMENT_LUMBERMILL</ImprovementType>
 			<YieldType>YIELD_GOLD</YieldType>
 			<YieldChange>2</YieldChange>
 		</Row>
@@ -232,7 +232,7 @@
 			<YieldChange>1</YieldChange>
 		</Row>
 	</EventChoice_SpecialistYieldChange>
-	
+
 	<EventChoice_EventCostYield>
 		<Row>
 			<EventChoiceType>EVENT_INDONESIA_UE_CHOICE_2</EventChoiceType>

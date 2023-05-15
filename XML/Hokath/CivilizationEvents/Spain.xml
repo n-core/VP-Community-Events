@@ -127,7 +127,6 @@
 			<ConquestProb>0</ConquestProb>
 			<MinAreaSize>-1</MinAreaSize>
 			<ReligiousPressureModifier>25</ReligiousPressureModifier>
-			<ConversionModifier>-10</ConversionModifier>
 			<NeverCapture>true</NeverCapture>
 			<IconAtlas>BW_ATLAS_2</IconAtlas>
 			<PortraitIndex>10</PortraitIndex>
@@ -282,7 +281,6 @@
 			<Quantity>1</Quantity>
 		</Row>
 	</EventChoice_FreeUnits>
-	
 	<EventChoice_BuildingClassYieldChange>
 		<Row>
 			<EventChoiceType>EVENT_SPAIN_UE_CHOICE_3</EventChoiceType>
@@ -356,7 +354,7 @@
 			<EventChoiceType>EVENT_SPAIN_UE_CHOICE_6</EventChoiceType>
 			<YieldType>YIELD_GOLDEN_AGE_POINTS</YieldType>
 			<Yield>200</Yield>
-		</Row>		
+		</Row>
 	</EventChoice_EventCostYield>
 	<EventChoice_MinimumStartYield>
 		<Row>
@@ -386,9 +384,8 @@
 			<EventChoiceType>EVENT_SPAIN_UE_CHOICE_6</EventChoiceType>
 			<YieldType>YIELD_GOLDEN_AGE_POINTS</YieldType>
 			<Yield>200</Yield>
-		</Row>		
+		</Row>
 	</EventChoice_MinimumStartYield>
-
 <!--<EventChoiceFlavors>
 		<Row>
 			<EventChoiceType>EVENT_SPAIN_UE_CHOICE_1</EventChoiceType>
@@ -564,7 +561,6 @@
 		<Row Tag="TXT_KEY_EVENT_SPAIN_UE_DESCRIPTION_CHOICE_6">
 			<Text>*The fixtures of our great imperial history are as grand as they are important, it is for this reason that the peoples of the world wish to visit Spain*[NEWLINE]We cannot stop the tides of this brave new world any longer. The history of Spain is the history of the world. Let all come and see.</Text>
 		</Row>
-		
 		<Row Tag="TXT_KEY_PROMOTION_UE_IBERIAN_FERVOR">
 			<Text>Iberian Fervour</Text>
 		</Row>

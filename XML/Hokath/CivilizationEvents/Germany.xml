@@ -132,7 +132,6 @@
 			<Defense>1000</Defense>
 			<ExtraCityHitPoints>50</ExtraCityHitPoints>
 			<ReligiousPressureModifier>25</ReligiousPressureModifier>
-			<ConversionModifier>-10</ConversionModifier>
 			<IconAtlas>COMMUNITY_ATLAS</IconAtlas>
 			<PortraitIndex>5</PortraitIndex>
 			<NeverCapture>true</NeverCapture>

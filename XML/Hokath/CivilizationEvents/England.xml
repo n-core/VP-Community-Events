@@ -173,7 +173,6 @@
 			<GreatWorkCount>1</GreatWorkCount>
 			<ConquestProb>100</ConquestProb>
 			<ArtDefineTag>TEMPLE</ArtDefineTag>
-			<ConversionModifier>-10</ConversionModifier>
 			<MinAreaSize>-1</MinAreaSize>
 			<WLTKDTurns>15</WLTKDTurns>
 			<ReligiousPressureModifier>40</ReligiousPressureModifier>
@@ -339,8 +338,6 @@
 			<YieldChange>2</YieldChange>
 		</Row>
 	</EventChoice_BuildingClassYieldChange>
-	
-	
 <!--<EventChoiceFlavors>
 		<Row>
 			<EventChoiceType>EVENT_ENGLAND_UE_CHOICE_1</EventChoiceType>

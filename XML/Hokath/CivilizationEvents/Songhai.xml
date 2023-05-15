@@ -120,7 +120,6 @@
 			<ReligiousPressureModifier>25</ReligiousPressureModifier>
 			<GreatWorkSlotType>GREAT_WORK_SLOT_LITERATURE</GreatWorkSlotType>
 			<GreatWorkCount>1</GreatWorkCount>
-			<ConversionModifier>-10</ConversionModifier>
 			<IconAtlas>EXPANSION_BW_ATLAS_2</IconAtlas>
 			<PortraitIndex>2</PortraitIndex>
 			<NeverCapture>true</NeverCapture>

@@ -159,7 +159,6 @@
 			<ArtDefineTag>TEMPLE</ArtDefineTag>
 			<MinAreaSize>-1</MinAreaSize>
 			<ReligiousPressureModifier>25</ReligiousPressureModifier>
-			<ConversionModifier>-10</ConversionModifier>
 			<IconAtlas>EXPANSION2_WONDER_ATLAS</IconAtlas>
 			<PortraitIndex>5</PortraitIndex>
 			<NeverCapture>true</NeverCapture>

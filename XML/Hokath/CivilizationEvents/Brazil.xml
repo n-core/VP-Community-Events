@@ -131,7 +131,6 @@
 			<Yield>10</Yield>
 		</Row>
 	</Building_WLTKDYieldMod>
-	
 	<EventChoice_FreeUnits>
 		<Row>
 			<EventChoiceType>EVENT_BRAZIL_UE_CHOICE_5</EventChoiceType>
@@ -174,13 +173,13 @@
 		</Row>
 		<Row>
 			<EventChoiceType>EVENT_BRAZIL_UE_CHOICE_2</EventChoiceType>
-			<ImprovementType>IMPROVEMENT_LUMBERMILL_JUNGLE</ImprovementType>
+			<ImprovementType>IMPROVEMENT_LUMBERMILL</ImprovementType>
 			<YieldType>YIELD_FOOD</YieldType>
 			<YieldChange>-1</YieldChange>
 		</Row>
 		<Row>
 			<EventChoiceType>EVENT_BRAZIL_UE_CHOICE_2</EventChoiceType>
-			<ImprovementType>IMPROVEMENT_LUMBERMILL_JUNGLE</ImprovementType>
+			<ImprovementType>IMPROVEMENT_LUMBERMILL</ImprovementType>
 			<YieldType>YIELD_GOLD</YieldType>
 			<YieldChange>-1</YieldChange>
 		</Row>
@@ -261,7 +260,6 @@
 			<Yield>2</Yield>
 		</Row>
 	</EventChoice_InstantYield>
-	
 <!--<EventChoiceFlavors>
 		<Row>
 			<EventChoiceType>EVENT_BRAZIL_UE_CHOICE_1</EventChoiceType>
@@ -410,7 +408,7 @@
 			<Text>Receive a Great Person of your choice.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EVENT_BRAZIL_UE_HELP_CHOICE_2">
-			<Text>Trade with the Jungle tribes. Jungles yield +1 [ICON_FOOD] Food and +1 [ICON_GOLD] Gold. Logging Camps however, remove the jungle bonus. Learn the traditional ways of cultivating [ICON_RES_COCOA] Cocoa, [ICON_RES_SUGAR] Sugar, [ICON_RES_BANANA] Banana and [ICON_RES_SPICES] Spices, allowing each of these resources to yield +2 [ICON_CULTURE] Culture.</Text>
+			<Text>Trade with the Jungle tribes. Jungles yield +1 [ICON_FOOD] Food and +1 [ICON_GOLD] Gold. Lumber Mills however, remove the jungle bonus. Learn the traditional ways of cultivating [ICON_RES_COCOA] Cocoa, [ICON_RES_SUGAR] Sugar, [ICON_RES_BANANA] Banana and [ICON_RES_SPICES] Spices, allowing each of these resources to yield +2 [ICON_CULTURE] Culture.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EVENT_BRAZIL_UE_HELP_CHOICE_3">
 			<Text>Against the elites and the clergy, spend {1_YieldCost} to reduce [ICON_RESEARCH] Illiteracy thresholds by 5%. During [COLOR_POSITIVE_TEXT]WLTKD[ENDCOLOR], Cities produce +10% [ICON_PRODUCTION] Production.</Text>
